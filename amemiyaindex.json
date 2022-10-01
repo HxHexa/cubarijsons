@@ -1,128 +1,129 @@
 {
-  "title": "Amemiya-san",
-  "description": "",
-  "artist": "Arawi Keiichi",
-  "author": "Arawi Keiichi",
-  "cover": "https://uploads.mangadex.org/covers/b8f51c27-7717-44aa-b8cb-563f6c1de0c9/d03ab078-7ec0-4ba4-8128-f05e50cb083f.jpg",
-  "chapters": {
-     "1": {
-      "title": "Amemiya-san and the Beautiful Sounds",
-      "volume": "1",
-      "groups": {
-        "Palmtop Scans": "/proxy/api/imgur/chapter/Yh70zwA/"
-      },
-      "last_updated": "1646610887"
-      },
-     "2": {
-      "title": "New sneakers and Amemiya-san",
-      "volume": "1",
-      "groups": {
-       "Palmtop Scans": "/proxy/api/imgur/chapter/nDPdtxF/"
-      },
-      "last_updated": "1646610887"
-     },
-     "3": {
-      "title": "The Volume where Sickle Skull appears!",
-      "volume": "1",
-      "groups": {
-       "Palmtop Scans": "/proxy/api/imgur/chapter/MQSpTUk/"
-      },
-      "last_updated": "1646610887"
-     },
-     "4": {
-      "title": "The infinite bus loop volume",
-      "volume": "1",
-      "groups": {
-       "Palmtop Scans": "/proxy/api/imgur/chapter/nEtKYwr/"
-      },
-      "last_updated": "1646610887"
-     },
-     "5": {
-      "title": "Amemiya-san and the anemone",
-      "volume": "1",
-      "groups": {
-       "Palmtop Scans": "/proxy/api/imgur/chapter/FuB5MNV/"
-      },
-      "last_updated": "1646610887"
-     },
-     "6": {
-      "title": "Amemiya-san's world",
-      "volume": "1",
-      "groups": {
-       "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/MlUa9K6/"
-      },
-      "last_updated": "1646610887"
-     },
-     "7": {
-     "title": "Amemiya-san and the Great Head",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/GfRQGc8/"
-     },
-     "last_updated": "1646610887"
-     },
-     "8": {
-     "title": "Come! The conquering of Gunma",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/2L9AB3B/"
-     },
-     "last_updated": "1646610887"
-     },
-     "9": {
-     "title": "Come! The Conquering of Gunma Volume 2",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/5eoodca/"
-     },
-     "last_updated": "1646610887"
-     },
-     "10": {
-     "title": "School friend",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/eA4WraY/"
-     },
-     "last_updated": "1646610887"
-     },
-     "11": {
-     "title": "Year one class one",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/gwa8MbZ/"
-     },
-     "last_updated": "1646610887"
-     },
-     "12": {
-     "title": "Medusa",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/D99MzDV/"
-     },
-     "last_updated": "1646610887"
-     },
-     "13": {
-     "title": "Amemiya-san and Holland Lop",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/2pIflc5/"
-     },
-     "last_updated": "1646610887"
-     },
-     "14": {
-     "title": "Monolouge",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/hNAdWh5/"
-     },
-     "last_updated": "1646610887"
-     }
-     "15": {
-     "title": "Landing",
-     "volume": "1",
-     "groups": {
-      "Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/1PlOGmI/"
-     },
-     "last_updated": "1646610887"
-  }
+	"title": "Amemiya-san",
+	"description": "",
+	"artist": "Arawi Keiichi",
+	"author": "Arawi Keiichi",
+	"cover": "https://uploads.mangadex.org/covers/b8f51c27-7717-44aa-b8cb-563f6c1de0c9/d03ab078-7ec0-4ba4-8128-f05e50cb083f.jpg",
+	"chapters": {
+		"1": {
+			"title": "Amemiya-san and the Beautiful Sounds",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/Yh70zwA/"
+			},
+			"last_updated": "1646610887"
+		},
+		"2": {
+			"title": "New sneakers and Amemiya-san",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/nDPdtxF/"
+			},
+			"last_updated": "1646610887"
+		},
+		"3": {
+			"title": "The Volume where Sickle Skull appears!",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/MQSpTUk/"
+			},
+			"last_updated": "1646610887"
+		},
+		"4": {
+			"title": "The infinite bus loop volume",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/nEtKYwr/"
+			},
+			"last_updated": "1646610887"
+		},
+		"5": {
+			"title": "Amemiya-san and the anemone",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/FuB5MNV/"
+			},
+			"last_updated": "1646610887"
+		},
+		"6": {
+			"title": "Amemiya-san's world",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/MlUa9K6/"
+			},
+			"last_updated": "1646610887"
+		},
+		"7": {
+			"title": "Amemiya-san and the Great Head",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/GfRQGc8/"
+			},
+			"last_updated": "1646610887"
+		},
+		"8": {
+			"title": "Come! The conquering of Gunma",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/2L9AB3B/"
+			},
+			"last_updated": "1646610887"
+		},
+		"9": {
+			"title": "Come! The Conquering of Gunma Volume 2",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/5eoodca/"
+			},
+			"last_updated": "1646610887"
+		},
+		"10": {
+			"title": "School friend",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/eA4WraY/"
+			},
+			"last_updated": "1646610887"
+		},
+		"11": {
+			"title": "Year one class one",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/gwa8MbZ/"
+			},
+			"last_updated": "1646610887"
+		},
+		"12": {
+			"title": "Medusa",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/D99MzDV/"
+			},
+			"last_updated": "1646610887"
+		},
+		"13": {
+			"title": "Amemiya-san and Holland Lop",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/2pIflc5/"
+			},
+			"last_updated": "1646610887"
+		},
+		"14": {
+			"title": "Monolouge",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/hNAdWh5/"
+			},
+			"last_updated": "1646610887"
+		},
+		"15": {
+			"title": "Landing",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/1PlOGmI/"
+			},
+			"last_updated": "1646610887"
+		}
+	}
 }
