@@ -5,6 +5,14 @@
   "author": "Shintani Kaoru",
   "cover": "https://mangadex.org/covers/8329fabe-41d2-4c63-8d06-41400185dcbc/0bdffbfa-2a1d-42a2-bc0c-3d35c093b168.jpg",
   "chapters": {
+    "60": {
+      "title": "Beyond the Mediterranean",
+      "volume": "",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/ybrdgav/"
+      },
+      "last_updated": "1659160151"
+    },
      "43": {
       "title": "The Enemy Below",
       "volume": "3",
@@ -13,13 +21,13 @@
       },
       "last_updated": "1656118756"
     },
-    "60": {
-      "title": "Beyond the Mediterranean",
+    "1": {
+      "title": "Skies of Betrayal",
       "volume": "",
       "groups": {
-        "Palmtop Scans": "/proxy/api/imgur/chapter/ybrdgav/"
+        "Palmtop Scans": "/proxy/api/imgur/chapter/ncIeVpd/"
       },
-      "last_updated": "1659160151"
+      "last_updated": "1666732797"
     }
   }
 }
