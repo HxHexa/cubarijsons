@@ -5,13 +5,21 @@
 	"author": "Various",
 	"cover": "https://i.imgur.com/ojvMqAb.jpg",
 	"chapters": {
-		"1": {
-			"title": "KAngel's Manga",
+		"2": {
+			"title": "If Only Every Night Could be so Peaceful",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans": "/proxy/api/imgur/chapter/NwjEJk6/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/QDz2cD4/"
 			},
-			"last_updated": "1672258302"
+			"last_updated": "1672277065"
 		}
+	},
+	"1": {
+		"title": "KAngel's Manga",
+		"volume": "1",
+		"groups": {
+			"Palmtop Scans": "/proxy/api/imgur/chapter/NwjEJk6/"
+		},
+		"last_updated": "1672258302"
 	}
 }
