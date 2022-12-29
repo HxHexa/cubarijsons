@@ -12,14 +12,14 @@
 				"Palmtop Scans": "/proxy/api/imgur/chapter/QDz2cD4/"
 			},
 			"last_updated": "1672277065"
-		}
-	},
-	"1": {
-		"title": "KAngel's Manga",
-		"volume": "1",
-		"groups": {
-			"Palmtop Scans": "/proxy/api/imgur/chapter/NwjEJk6/"
 		},
-		"last_updated": "1672258302"
+		"1": {
+			"title": "KAngel's Manga",
+			"volume": "1",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/NwjEJk6/"
+			},
+			"last_updated": "1672258302"
+		}
 	}
 }
