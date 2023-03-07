@@ -1,0 +1,41 @@
+{
+  "title": "Bocchi The Rock! Anthology Comic",
+  "description": "Collection of stories and artworks done by various artists for the series Bocchi the Rock!",
+  "artist": "",
+  "author": "",
+  "cover": "https://mangadex.org/covers/4b1b5cc9-1889-4ebc-b613-f7e2142ff2fe/37afac4a-41bc-45a5-be2e-d278c1b59464.png",
+  "chapters": {
+     "4": {
+      "title": "Bocchi-chan's Missing Item",
+      "volume": "1",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/PrBmQCb/"
+      },
+      "last_updated": "1678207589"
+    },
+     "3": {
+      "title": "Thank you Guitar and Muscles",
+      "volume": "1",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/sMgKHih/"
+      },
+      "last_updated": "1678207589"
+    },
+     "2": {
+      "title": "Futari-chan's Shopping Trip Large-Scale Operation!",
+      "volume": "1",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/9UzfaxR/"
+      },
+      "last_updated": "1678207589"
+    },
+     "1": {
+      "title": "Bocchi the Lock?",
+      "volume": "1",
+      "groups": {
+       "Palmtop Scans": "/proxy/api/imgur/chapter/XGjzRZ8/"
+      },
+      "last_updated": "1678207589"
+     }
+  }
+}
