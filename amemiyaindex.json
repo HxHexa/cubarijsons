@@ -49,7 +49,7 @@
 			"title": "School",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/jkdm3Yr/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/jkdm3Yr/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -57,7 +57,7 @@
 			"title": "Classmates",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/sw8X6pm/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/sw8X6pm/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -65,7 +65,7 @@
 			"title": "Medusa",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/NNeFI7c/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/NNeFI7c/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -73,7 +73,7 @@
 			"title": "Anemone Fair",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/6eh7kBy/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/6eh7kBy/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -81,7 +81,7 @@
 			"title": "School friend",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/eA4WraY/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/eA4WraY/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -89,7 +89,7 @@
 			"title": "Holland Lop",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/DikBlh4/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/DikBlh4/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -97,7 +97,7 @@
 			"title": "Secret Society ②",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/Pf5I0P5/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/Pf5I0P5/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -105,7 +105,7 @@
 			"title": "Holland Lop ②",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/SanODT2/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/SanODT2/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -113,7 +113,7 @@
 			"title": "Monolouge",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/hNAdWh5/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/hNAdWh5/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -121,7 +121,7 @@
 			"title": "Landing",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/1PlOGmI/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/1PlOGmI/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -129,7 +129,7 @@
 			"title": "Something I like",
 			"volume": "1",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/6ZrisfM/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/6ZrisfM/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -137,7 +137,7 @@
 			"title": "Dream and Job",
 			"volume": "2",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/JnqLb1A/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/JnqLb1A/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -145,7 +145,7 @@
 			"title": "Admiration",
 			"volume": "2",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/gGggPHk/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/gGggPHk/"
 			},
 			"last_updated": "1646610887"
 		},
@@ -153,7 +153,15 @@
 			"title": "A Battle Without Words",
 			"volume": "2",
 			"groups": {
-				"Palmtop Scans & Ban Scans": "/proxy/api/imgur/chapter/WkgGKGy/"
+				"Palmtop Scans": "/proxy/api/imgur/chapter/WkgGKGy/"
+			},
+			"last_updated": "1646610887"
+		},
+		"21": {
+			"title": "Characterless",
+			"volume": "2",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/4Oi7qtw/"
 			},
 			"last_updated": "1646610887"
 		}
