@@ -180,6 +180,22 @@
 				"Palmtop Scans": "/proxy/api/imgur/chapter/zM5Lwgq/"
 			},
 			"last_updated": "1646610887"
+		},
+		"24": {
+			"title": "Bad Day",
+			"volume": "2",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/B3nuXqv/"
+			},
+			"last_updated": "1646610887"
+		},
+		"25": {
+			"title": "Rainy Day",
+			"volume": "2",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/FL0PB5Z/"
+			},
+			"last_updated": "1646610887"
 		}
 	}
 }
