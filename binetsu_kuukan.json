@@ -1,0 +1,33 @@
+{
+	"title": "Binetsu Kuukan",
+	"description": "",
+	"artist": "Aoki Ume",
+	"author": "Aoki Ume",
+	"cover": "https://cdn.discordapp.com/attachments/861056264963227648/1118266842549600306/V9100017948161.jpg",
+	"chapters": {
+		"28": {
+			"title": "",
+			"volume": "5",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/uuSEMY9/"
+			},
+			"last_updated": "1693371333"
+		},
+		"28.5": {
+			"title": "",
+			"volume": "5",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/Qo9dmst/"
+			},
+			"last_updated": "1693371333"
+		},
+		"29": {
+			"title": "",
+			"volume": "6",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/68V5EA1/"
+			},
+			"last_updated": "1693371333"
+		}
+	}
+}
