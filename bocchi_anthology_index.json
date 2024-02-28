@@ -6,6 +6,14 @@
   "cover": "https://mangadex.org/covers/4b1b5cc9-1889-4ebc-b613-f7e2142ff2fe/37afac4a-41bc-45a5-be2e-d278c1b59464.png",
   "chapters": {
      "11.5": {
+      "title": "#GyozaPardy #NothingButDubs",
+      "volume": "2",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/93uCLCw/"
+      },
+      "last_updated": "1709080885"
+    },
+     "10.6": {
       "title": "Volume 1 Extra",
       "volume": "1",
       "groups": {
@@ -13,7 +21,7 @@
       },
       "last_updated": "1689562671"
     },
-     "11": {
+     "10.5": {
       "title": "Comment Letter",
       "volume": "1",
       "groups": {
