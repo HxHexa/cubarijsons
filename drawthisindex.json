@@ -90,6 +90,14 @@
 				"Palmtop Scans": "/proxy/api/imgur/chapter/vQeRVF4"
 			},
 			"last_updated": "1717388556"
+		},
+		"9.5": {
+			"title": "Volume 2 Extra",
+			"volume": "2",
+			"groups": {
+				"Palmtop Scans": "/proxy/api/imgur/chapter/G0ylcdG"
+			},
+			"last_updated": "1719622922"
 		}
   }
 }
