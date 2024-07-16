@@ -1,17 +1,33 @@
 {
-	"title": "ArawiNotesProject",
-	"description": "",
-	"artist": "",
-	"author": "",
-	"cover": "https://cdn.discordapp.com/attachments/779042002728910871/1145529686059921448/887.png",
-	"chapters": {
-		"1": {
-			"title": "Idea Notebook Considerations and How to Create Ideas",
-			"volume": "",
-			"last_updated": "1693186150",
-			"groups": {
-				"Palmtop Scans": "/proxy/api/imgur/chapter/1OLU6qS/"
-			}
-		}
-	}
+    "title": "ArawiNotesProject",
+    "description": "",
+    "artist": "",
+    "author": "",
+    "cover": "https://cdn.discordapp.com/attachments/779042002728910871/1145529686059921448/887.png",
+    "chapters": {
+        "1": {
+            "title": "Idea Notebook Considerations and How to Create Ideas",
+            "volume": "",
+            "last_updated": "1693186150",
+            "groups": {
+                "Palmtop Scans": "/proxy/api/imgur/chapter/1OLU6qS/"
+            }
+        },
+        "2": {
+            "title": "April Rain Day",
+            "volume": "",
+            "last_updated": "1721133347",
+            "groups": {
+                "Palmtop Scans": "/proxy/api/imgur/chapter/8iwncck/"
+            }
+        },
+        "3": {
+            "title": "April Cheese Day",
+            "volume": "",
+            "last_updated": "1721133347",
+            "groups": {
+                "Palmtop Scans": "/proxy/api/imgur/chapter/pwcekRS/"
+            }
+        }
+    }
 }
